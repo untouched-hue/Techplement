@@ -1,0 +1,23 @@
+This Python script generates a random password based on specified length and complexity.
+
+## Getting Started
+
+To get started with this password generator, follow these instructions:
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+
+### Installation
+
+1. Clone the repository or download the `password_generator.py` file.
+2. Ensure you have Python installed.
+3. No additional Python packages are required.
+
+### Usage
+
+1. Run the script in a Python environment.
+2. Follow the prompts to specify the password length and complexity.
+
+```bash
+python password_generator.py
